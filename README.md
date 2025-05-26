@@ -1,0 +1,1 @@
+The original `deck.gl-particle` repository was archived and used an older version of [luma.gl](https://github.com/visgl/luma.gl) (v8), which is not compatible with luma.gl v9. This repository aims to update the project for compatibility with the latest version.
